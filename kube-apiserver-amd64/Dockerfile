@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.15.3
+FROM gcr.io/google_containers/pause-amd64:3.1
 MAINTAINER luojianfu
